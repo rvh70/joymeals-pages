@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "JoyMeals",
+    "description": "",
+    "home_page_url": "https://rvh70.github.io/joymeals-pages",
+    "feed_url": "https://rvh70.github.io/joymeals-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Van Heukelum Technology B.V."
+    },
+    "items": [
+    ]
+}
